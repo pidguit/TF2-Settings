@@ -1,0 +1,9 @@
+bin/
+hl2/
+platform/
+steam_appid.txt
+tf.sh
+tf_linux64
+tf_linux64_d3d9.log
+thirdpartylegalnotices.txt
+*.vpk
