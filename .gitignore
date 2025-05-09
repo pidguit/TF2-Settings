@@ -105,3 +105,5 @@ tf/videoconfig_linux.cfg
 tf/voice_ban.dt
 tf/workshop/
 tf/custom/
+Agent
+overrides/modules.cfg
