@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+    "$baseTexture"                                                  "vgui/replay/thumbnails/improved_icons/leaderboard_spy"
+    "$translucent"                                                  "1"
+    "$vertexcolor"                                                  "1"
+}
