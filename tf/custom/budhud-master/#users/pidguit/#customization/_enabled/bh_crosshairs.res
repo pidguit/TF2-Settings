@@ -19,7 +19,7 @@
         // Change these
         "enabled"                                                   "1"
         "visible"                                                   "1"
-        "labeltext"                                                 "'"
+        "labeltext"                                                 "("
         "font"                                                      "Crosshair: TF2Crosshairs | Size: 10 | Outline: Off"
         "fgcolor"                                                   "hud_crosshair_1"
 
