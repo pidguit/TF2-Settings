@@ -2,23 +2,9 @@
 {
     "bh_BuffedHealthBlock"
     {
-        "pin_to_sibling"                                            "bh_TargetIDHealthPin"
-
-        "ControlName"                                               "CExLabel"
-        "fieldName"                                                 "bh_BuffedHealthBlock"
-        "xpos"                                                      "0"
-        "ypos"                                                      "0"
-        "zpos"                                                      "4"
-        "wide"                                                      "40"
-        "tall"                                                      "18"
-        "autoResize"                                                "0"
-        "pinCorner"                                                 "0"
-        "labeltext"                                                 ""
         "visible"                                                   "1"
         "enabled"                                                   "1"
         "bgcolor_override"                                          "bh_Health_Buff"
-        "paintbackground"                                           "1"
-        "border"                                                    "NoBorder"
     }
 
     "PlayerStatusHealthValueSpec"
