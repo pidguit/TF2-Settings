@@ -19,6 +19,6 @@ Scheme
 
 	// Theme Colors
 	"bh_Theme_TextAccent"					    "140 056 242 255"
-	"Orange"						    "140 056 242 255"
+	"Orange"						    "140 056 242 255" // literally only changes vote kick menu lol
 	}
 }

@@ -1,5 +1,6 @@
     #base    "../../#users/custom/resource/ui/hudaccountpanel.res"
     #base    "../../#users/zenith/resource/ui/hudaccountpanel.res"
+    #base    "../../#users/pidguit/resource/ui/hudaccountpanel.res"
     #base    "../../_stream/resource/ui/hudaccountpanel.res"
     #base    "../../_budhud/resource/ui/hudaccountpanel.res"
     #base    "../../_tf2hud/resource/ui/hudaccountpanel.res"
