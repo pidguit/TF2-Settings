@@ -7,6 +7,7 @@
     #base    "../../#users/custom/#customization/_enabled/bh_menu_defaultbackground/mainmenuoverride.res"
     #base    "../../#users/custom/#customization/_enabled/bh_feeling_spooky.res"
     #base    "../../#users/custom/#customization/_enabled/bh_feeling_festive.res"
+    #base    "../../#users/pidguit/resource/ui/mainmenuoverride.res"
     #base    "../../#users/dane/#customization/_enabled/bh_menu_background.res"
     #base    "../../#users/dane/#customization/_enabled/bh_menu_hidegif.res"
     #base    "../../#users/dane/resource/ui/mainmenuoverride.res"
