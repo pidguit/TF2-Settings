@@ -2,6 +2,7 @@
     #base    "../../#users/custom/#customization/_enabled/bh_targetid_largehealth.res"
     #base    "../../#users/custom/#customization/_enabled/bh_targetid_depleting.res"
     #base    "../../#users/custom/#customization/_enabled/bh_targetid_healthcross/spectatorguihealth.res"
+    #base    "../../#users/pidguit/resource/ui/spectatorguihealth.res"
     #base    "../../#customization/_enabled/bh_targetid_largehealth.res"
     #base    "../../#customization/_enabled/bh_targetid_depleting.res"
     #base    "../../#customization/_enabled/bh_targetid_healthcross/spectatorguihealth.res"
