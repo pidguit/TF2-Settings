@@ -13,7 +13,10 @@ Scheme
 
 	// Health and Ammo Colors
 	"bh_Health_Pickup"					    "050 205 050 255"
-	//"bh_Ammo_Low"						    "032 032 186 255"
+	"bh_Health_Buff"					    "000 255 153 255"
+
+	// Medigun Heal Color
+	"bh_HealColor"						    "000 255 153 255"
 
 	// Loading Screen Colors
 	"bh_onyourway"						    "140 056 242 255"
