@@ -2,13 +2,17 @@ Scheme
 {
     Colors
     {
-    	//  Crosshair Colors
+	//  Crosshair Colors
         "hud_crosshair_1"                                           "000 255 255 255"
         "hud_crosshair_1_flash"                                     "255 255 000 255"
-	
+	"bh_HudDMGDisplay"					    "247 080 081 255"
+
 	// Main Menu Colors
 	"bh_menu_background1"					    "140 056 242 255"
 	"bh_menu_background2"					    "140 056 242 255"
+
+	// Health and Ammo Colors
+	"bh_Health_Pickup"					    "050 205 050 255"
 
 	// Loading Screen Colors
 	"bh_onyourway"						    "140 056 242 255"
