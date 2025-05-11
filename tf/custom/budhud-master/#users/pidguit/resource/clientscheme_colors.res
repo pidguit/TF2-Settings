@@ -13,6 +13,7 @@ Scheme
 
 	// Health and Ammo Colors
 	"bh_Health_Pickup"					    "050 205 050 255"
+	//"bh_Ammo_Low"						    "032 032 186 255"
 
 	// Loading Screen Colors
 	"bh_onyourway"						    "140 056 242 255"
